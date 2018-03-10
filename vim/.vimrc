@@ -1,6 +1,9 @@
 " 粘贴模式
 set paste
 
+" 恢复delete键不能删除行的问题
+set backspace=2
+
 " 配置变更生效
 autocmd! BufWritePost .vimrc source %
 
