@@ -1,9 +1,9 @@
 ### vim dotfile
 
 #### 安装配置
-- 安装Vundle：git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-- 拷贝.vimrc 到 $HOME/.vimrc
-- 安装插件：打开vim，输入 :PluginInstall
+- 安装Vundle：`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+- 拷贝.vimrc 到 `$HOME/.vimrc`
+- 安装插件：打开vim，输入 `:PluginInstall`
 
 #### 基本设置
 
